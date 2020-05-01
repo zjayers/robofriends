@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`expect class based components to match snapshots 1`] = `
+<button
+  color="red"
+  id="counter"
+  onClick={[Function]}
+>
+  Count: 
+  1
+</button>
+`;
+
+exports[`expect functional components to match snapshots 1`] = `
+<div
+  className="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5"
+>
+  <img
+    alt="robots"
+    src="https://robohash.org/undefined?size=200x200"
+  />
+  <div>
+    <h2 />
+    <p />
+  </div>
+</div>
+`;
+
+exports[`expect functional components to match snapshots 2`] = `
+<div>
+  <Card
+    email="Rob@rob.com"
+    id={1}
+    key="0"
+    name="Rob"
+  />
+</div>
+`;
