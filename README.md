@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+# robofriends-pwa
+Udemy tutorial - adding PWA capabilities to a react app
 
 To run the project:
 
